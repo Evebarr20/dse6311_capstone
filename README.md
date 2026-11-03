@@ -38,6 +38,7 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+Jordan Italia 🐞
 
 :hear_no_evil: Another student... mystery!?! 🙉 
 
