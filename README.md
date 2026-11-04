@@ -38,6 +38,7 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+Jordan Italia 🐞
 
 🎃 Brian D'Alelio 🎃
 Martin Omasta 🌹✊
