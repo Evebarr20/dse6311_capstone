@@ -39,7 +39,9 @@ capstone-project/
 # Student Sign-in
 📊  Dr. Geist  🍄
 
-:hear_no_evil: Another student... mystery!?! 🙉 
-
+🎃 Brian D'Alelio 🎃
+Martin Omasta 🌹✊
+- Alden George 🚜 
+Ayden Lang :bug:
 🏒 Brian Quevillon
 
