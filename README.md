@@ -43,6 +43,5 @@ capstone-project/
 Martin Omasta 🌹✊
 - Alden George 🚜 
 Ayden Lang :bug:
-
-:hear_no_evil: Another student... mystery!?! 🙉 
+🏒 Brian Quevillon
 
