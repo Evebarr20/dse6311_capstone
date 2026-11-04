@@ -38,8 +38,15 @@ capstone-project/
 ---
 # Student Sign-in
 📊  Dr. Geist  🍄
+🎃 Brian D'Alelio 🎃
+Martin Omasta 🌹✊
+- Alden George 🚜 
 
 :hear_no_evil: Another student... mystery!?! 🙉 
+
 Martin Omasta 🌹✊
 Hello Class, Hello World
+
+
+
 
