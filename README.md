@@ -40,11 +40,17 @@ capstone-project/
 📊  Dr. Geist  🍄
 
 🎃 Brian D'Alelio 🎃
+
 Martin Omasta 🌹✊
+
 - Alden George 🚜 
+
 Ayden Lang :bug:
+
 🏒 Brian Quevillon
+
 Jordan Italia 🐞
+
 Daiya Jacobs 🎒
 
 :hear_no_evil: Another student... mystery!?! 🙉 
